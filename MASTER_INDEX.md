@@ -25,8 +25,8 @@
 - **✨ [الفرضية الفيثاغورية لدالة زيتا](./THE_PYTHAGOREAN_ZETA_HYPOTHESIS.md)**: توثيق شمولية قانون الوتر لكامل الشريط الحرج (ما وراء النصف).
 - **📕 [المخطوطة العلمية (The Manuscript v1)](./Basil_Resonance_Theory_Manuscript.md)**: المسودة الأولى للتطوير.
 - **📗 [البرهان الرياضي - الفصول 1 إِلى 4](./Mathematical_Proof_Chapter_1.md)**: الأسس النظرية الفيزيائية.
-- **📘 [البرهان الرياضي - الفصل الخامس](./Mathematical_Proof_Chapter_5.md)** / **[EN](./Mathematical_Proof_Chapter_5_EN.md)**: نظرية الوتر الفيثاغوري لدالة زيتا (البرهان المطلق لفرادة النصف).
-- **🛡️ [البرهان الرياضي - الفصل السادس](./Mathematical_Proof_Chapter_6.md)** / **[EN](./Mathematical_Proof_Chapters_6_to_8_EN.md)**: التنبؤ الجيومتري (الربط النهائي بين الوتر وتوزيع الأعداد الأولية).
+- **📘 [البرهان الرياضي - الفصل الخامس](./Mathematical_Proof_Chapter_5.md)** / **[EN](./Mathematical_Proof_Chapter_5_EN.md)**: قانون الرنين العام لدالة زيتا (قانون الكاشي وبرهان فرادة النصف).
+- **🛡️ [البرهان الرياضي - الفصل السادس](./Mathematical_Proof_Chapter_6.md)** / **[EN](./Mathematical_Proof_Chapters_6_to_8_EN.md)**: التنبؤ الجيومتري (الربط النهائي بين الرنين وتوزيع الأعداد الأولية).
 - **🛡️ [البرهان الرياضي - الفصل السابع](./Mathematical_Proof_Chapter_7.md)** / **[EN](./Mathematical_Proof_Chapters_6_to_8_EN.md)**: قانون الانضغاط الترددي (برهان العلاقة بين الوتر وكثافة الأصفار).
 - **🛡️ [البرهان الرياضي - الفصل الثامن](./Mathematical_Proof_Chapter_8.md)** / **[EN](./Mathematical_Proof_Chapters_6_to_8_EN.md)**: قانون الانحراف الموحد (1/8) (برهان الثابت الجيومتري للانحراف).
 - **⚗️ [البرهان الرياضي - الفصل التاسع](./Mathematical_Proof_Chapter_9.md)**: قانون الانحناء الجيومتري الكوني (سلسلة تايلور الكاملة وبرهانها على فرضية ريمان).
@@ -57,7 +57,7 @@
 
 ## 🎨 ثالثاً: التناغم والوحدة (Geometric Unity Law)
 الارتباط الشامل بين المثلث والدائرة والقطع الناقص:
-$$ |M_N(\rho)| \approx \frac{A_n}{\sqrt{8}} \cdot \frac{\ln N}{t_n} $$
+$$ |M_N(\rho)| \approx \frac{A_n}{3} \cdot \frac{\ln N}{t_n} \quad \text{(Equilateral Alignment)} $$
 حيث $A_n = \pi ab$ هي مساحة القاعدة البيضوية.
 - **القانون الموحد (Refined)**: $\frac{|\sum n^{-s} - \zeta(s)|}{N^{1-\sigma}} \approx \frac{1}{|1-s|}$
 - **التوازي الجيومتري (Directional Harmony)**: تطابق الزوايا بدقة $0.005^\circ$.
