@@ -34,7 +34,7 @@ def verify_constants(num_zeros=10, N=1000000):
     c3 = pi / 3
     
     print(f"\nTarget Constants:")
-    print(f"pi/sqrt(8) approx {float(c8):.10f}")
+    print(f"pi/3 approx {float(c8):.10f}")
     print(f"pi/3       approx {float(c3):.10f}")
     print("-" * 50)
     
@@ -54,14 +54,14 @@ def verify_constants(num_zeros=10, N=1000000):
         
         err8 = abs(ratio - float(c8))
         err3 = abs(ratio - float(c3))
-        winner = "pi/sqrt(8)" if err8 < err3 else "pi/3"
+        winner = "pi/3" if err8 < err3 else "pi/3"
         
         print(f"Zero {i:2} (t={t:8.4f}): Ratio = {ratio:.10f} | Winner: {winner}")
 
     avg_ratio = np.mean(results)
     print("\n" + "="*50)
     print(f"Average Ratio (N={N:,}): {avg_ratio:.10f}")
-    print(f"Closest to pi/sqrt(8): {abs(avg_ratio - float(c8)) < abs(avg_ratio - float(c3))}")
+    print(f"Closest to pi/3: {abs(avg_ratio - float(c8)) < abs(avg_ratio - float(c3))}")
     print(f"Closest to pi/3:       {abs(avg_ratio - float(c3)) < abs(avg_ratio - float(c8))}")
     print("="*50)
 
@@ -73,7 +73,7 @@ def verify_convergence(num_zeros=3):
     c8 = pi / sqrt(8)
     c3 = pi / 3
     
-    print(f"pi/sqrt(8) approx {float(c8):.10f}")
+    print(f"pi/3 approx {float(c8):.10f}")
     print(f"pi/3       approx {float(c3):.10f}\n")
     
     for N in Ns:

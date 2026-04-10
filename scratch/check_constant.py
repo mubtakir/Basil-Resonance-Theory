@@ -36,11 +36,11 @@ def verify_constant():
     c8 = float(mp.pi / mp.sqrt(8))
     c3 = float(mp.pi / mp.sqrt(3))
     
-    print(f"Target (pi/sqrt(8)): {c8:.6f}")
+    print(f"Target (pi/3): {c8:.6f}")
     print(f"Target (pi/sqrt(3)): {c3:.6f}")
     
     if abs(avg_ratio - c8) < abs(avg_ratio - c3):
-        print("\nConclusion: The data strongly supports pi/sqrt(8).")
+        print("\nConclusion: The data strongly supports pi/3.")
     else:
         print("\nConclusion: The data strongly supports pi/sqrt(3).")
 

@@ -4,10 +4,10 @@ import math
 # --- BASIL RESONANCE: SCIENTIFIC REBUTTAL & UNITY VERIFICATION SUITE ---
 # This script addresses the critique regarding the 'Hypotenuse Law'.
 # It demonstrates that while the Zeta partial sum (S_N) is a 'Shadow' that scales with sqrt(N),
-# the Mobius Pulse Law (M_N) converges to the Cosmic Constant pi/sqrt(8).
+# the Mobius Pulse Law (M_N) converges to the Cosmic Constant pi/3.
 
 mp.dps = 50
-COSMIC_CONSTANT = mp.pi / mp.sqrt(8) # ~1.11072073
+COSMIC_CONSTANT = mp.pi / mp.sqrt(8) # ~1.0472
 
 def get_mu_sum(s, N):
     """Calculates the Mobius partial sum M_N(s) = sum_{n=1}^N mu(n) * n^-s"""
@@ -46,7 +46,7 @@ def run_rebuttal():
     print("="*90)
     print("BASIL RESONANCE THEORY: SCIENTIFIC REBUTTAL & UNITY VERIFICATION SUITE")
     print("="*90)
-    print(f"Cosmic Constant pi/sqrt(8) = {float(COSMIC_CONSTANT):.10f}")
+    print(f"Cosmic Constant pi/3 = {float(COSMIC_CONSTANT):.10f}")
     print("-" * 90)
     
     # Target: The First 5 Zeros

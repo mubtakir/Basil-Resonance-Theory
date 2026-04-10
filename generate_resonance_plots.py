@@ -24,7 +24,7 @@ def generate_plots():
         n = [d['N'] for d in data[z]]
         pulse = [d['Pulse'] for d in data[z]]
         ax1.semilogx(n, pulse, marker='o', label=z, color=colors[i], linewidth=2)
-    ax1.axhline(y=COSMIC, color='white', linestyle='--', alpha=0.8, label=f'pi/sqrt(8) ~ {COSMIC:.4f}')
+    ax1.axhline(y=COSMIC, color='white', linestyle='--', alpha=0.8, label=f'pi/3 ~ {COSMIC:.4f}')
     ax1.set_title('Pulse Convergence (|M_N|*|zeta\'|/ln N)', fontsize=14, color='yellow')
     ax1.set_xlabel('N (log scale)')
     ax1.set_ylabel('Pulse Value')

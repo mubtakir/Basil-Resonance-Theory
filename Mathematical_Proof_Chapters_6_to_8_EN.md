@@ -10,12 +10,12 @@
 ### Chapter 6: Geometric Prime Prediction (The Portal Law)
 
 #### 1. Concept: The Predictive Power of the Hypotenuse
-We have established that the Riemann zeta function is a geometric engine. This chapter provides the analytical link between the Pythagorean hypotenuse $H$ of a zero $\rho$ and its harmonic influence on prime number distribution.
+We have established that the Riemann zeta function is a geometric engine. This chapter provides the analytical link between the Al-Kashi chord $H$ of a zero $\rho$ and its harmonic influence on prime number distribution.
 
 #### 2. The Influence Scaling (The Portal Law)
 According to the **Explicit Formula** for the prime-counting function $\psi(x)$:
 $$ \psi(x) = x - \sum_{\rho} \frac{x^\rho}{\rho} - \ln(2\pi) - \dots $$
-Each term $\frac{x^\rho}{\rho}$ in the oscillating sum is scaled by $1/|\rho|$. Since $|\rho| = H = \sqrt{0.5^2 + t^2}$, the amplitude of each harmonic oscillation is inversely proportional to the length of its Pythagorean hypotenuse.
+Each term $\frac{x^\rho}{\rho}$ in the oscillating sum is scaled by $1/|\rho|$. Since $|\rho| = H = \sqrt{0.5^2 + t^2}$, the amplitude of each harmonic oscillation is inversely proportional to the length of its Al-Kashi chord.
 
 $$ \boxed{Amplitude(\rho) \propto \frac{1}{H_\rho}} $$
 

@@ -51,7 +51,7 @@ $$\frac{1}{Chord(t)^2} - t^2 = 0.25 \quad \text{(دقيقة 100\%, انحراف 
 | 2 | [إنتروبيا الخط الحرج](./Mathematical_Proof_Chapter_2.md) | حتمية σ=0.5 |
 | 3 | [التكميم وتوزيع الأصفار](./Mathematical_Proof_Chapter_3.md) | ازدواجية الأصفار والأولية |
 | 4 | [النموذج الفيزيائي](./Mathematical_Proof_Chapter_4.md) | سلك RLC والمعاوقة |
-| 5 | [نظرية الوتر الفيثاغوري](./Mathematical_Proof_Chapter_5.md) | البرهان التحليلي المطلق |
+| 5 | [نظرية الوتر الفيثاغوري](./Mathematical_Proof_Chapter_5_General_Resonance.md) | البرهان التحليلي المطلق |
 | 6 | [التنبؤ الجيومتري](./Mathematical_Proof_Chapter_6.md) | قانون البوابة (1/H) |
 | 7 | [قانون الانضغاط الترددي](./Mathematical_Proof_Chapter_7.md) | الوتر ↔ كثافة الأصفار |
 | 8 | [قانون الانحراف الموحد](./Mathematical_Proof_Chapter_8.md) | الثابت 1/8 |

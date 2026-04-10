@@ -6,7 +6,7 @@
 ---
 
 ### 1. Introduction: The Geometric Vision of Complex Numbers
-We have empirically proven that the Riemann Zeta function generates a sequence of "right-angled triangles" governed by the Pythagorean hypotenuse. In this chapter, we transition from empirical observation to an **absolute analytical proof**.
+We have empirically proven that the Riemann Zeta function generates a sequence of "right-angled triangles" governed by the Al-Kashi chord. In this chapter, we transition from empirical observation to an **absolute analytical proof**.
 
 The fundamental premise relies on an intuitive truth: **Every complex number is the hypotenuse of a right-angled triangle**.
 Any number \( s = a + ib \) has a magnitude \( |s| = \sqrt{a^2 + b^2} \) representing a hypotenuse. The summation of a series of complex numbers is essentially a geometric construction of accumulating hypotenuses that produce a larger resultant hypotenuse.

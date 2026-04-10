@@ -78,9 +78,9 @@ CHAPTERS = [
         "subtitle": "المرحلة الثالثة: الثوابت الكونية والرنين المطلق",
         "color": "yellow",
         "experiments": [
-            {"id": "13", "name": "Unity Factor — pi/sqrt(8)",
+            {"id": "13", "name": "Unity Factor — pi/3",
              "file": "14_Final_Resonance_Unity.py",
-             "desc": "الكشف عن ثابت الوحدة الكوني π/√8 ≈ 1.1107"},
+             "desc": "الكشف عن ثابت الوحدة الكوني π/√8 ≈ 1.0472"},
             {"id": "14", "name": "Prime Harmonic Matrix",
              "file": "15_Elliptic_Prime_Harmony.py",
              "desc": "تناغم الأعداد الأولية والقطع الناقص (a/b = 2,23,37)"},

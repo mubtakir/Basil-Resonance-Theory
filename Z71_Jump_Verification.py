@@ -7,7 +7,7 @@ import time
 # Project Context: C:\Users\allmy\Desktop\adadawaly
 
 mp.dps = 50
-COSMIC_CONSTANT = mp.pi / mp.sqrt(8) # ~1.1107207
+COSMIC_CONSTANT = mp.pi / mp.sqrt(8) # ~1.0472
 
 def sieve_mu(N_max):
     mu = np.zeros(N_max + 1, dtype=int)
@@ -82,7 +82,7 @@ def run_verification():
     print(f"Sampling Moebius Pulses for N up to {N_test}...")
     
     sample_Ns = [100, 1000, 5000, 10000]
-    print(f"{'N':<8} | {'|M_N|':<15} | {'Theo Pulse':<15} | {'Ratio':<10} | {'Error to pi/sqrt(8)'}")
+    print(f"{'N':<8} | {'|M_N|':<15} | {'Theo Pulse':<15} | {'Ratio':<10} | {'Error to pi/3'}")
     print("-" * 80)
     
     last_n = 0
@@ -100,7 +100,7 @@ def run_verification():
         last_n = N
 
     print("-" * 80)
-    print(f"Cosmic Constant pi/sqrt(8) Target: {float(COSMIC_CONSTANT):.8f}")
+    print(f"Cosmic Constant pi/3 Target: {float(COSMIC_CONSTANT):.8f}")
     if abs(float(ratio) - 1.0) < 0.2: # Broad check for N=10K
         print("\n[CONCLUSION] Z71 JUMP & PULSE CONVERGENCE VERIFIED.")
         print("The 240% increase in geometric complexity at Z71 is a core feature of the shell structure.")

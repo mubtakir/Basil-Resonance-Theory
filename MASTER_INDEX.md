@@ -22,10 +22,10 @@
 هنا يكمن العقل المدبر والبرهان القاطع على فرضية ريمان كظاهرة فيزيائية.
 - **📜 [المخطوطة الرسمية المحصنة (V2 Official)](./Basil_Resonance_Theory_V2_Official.md)**: المرجع النهائي والأكثر دقة (Shadow vs Pulse).
 - **🛡️ [تقرير التحقق النهائي: وحدة المتجهات](./Vector_Identity_Verification_Report.md)**: البرهان القاطع على الانطباق الكلي للمتجهات عند الأصفار.
-- **✨ [الفرضية الفيثاغورية لدالة زيتا](./THE_PYTHAGOREAN_ZETA_HYPOTHESIS.md)**: توثيق شمولية قانون الوتر لكامل الشريط الحرج (ما وراء النصف).
+- **✨ [رنين الكاشي لدالة زيتا](./THE_AL_KASHI_ZETA_RESONANCE.md)**: توثيق شمولية قانون الرنين لكامل الشريط الحرج (ما وراء النصف).
 - **📕 [المخطوطة العلمية (The Manuscript v1)](./Basil_Resonance_Theory_Manuscript.md)**: المسودة الأولى للتطوير.
 - **📗 [البرهان الرياضي - الفصول 1 إِلى 4](./Mathematical_Proof_Chapter_1.md)**: الأسس النظرية الفيزيائية.
-- **📘 [البرهان الرياضي - الفصل الخامس](./Mathematical_Proof_Chapter_5.md)** / **[EN](./Mathematical_Proof_Chapter_5_EN.md)**: قانون الرنين العام لدالة زيتا (قانون الكاشي وبرهان فرادة النصف).
+- **📘 [البرهان الرياضي - الفصل الخامس](./Mathematical_Proof_Chapter_5_General_Resonance.md)** / **[EN](./Mathematical_Proof_Chapter_5_EN.md)**: قانون الرنين العام لدالة زيتا (قانون الكاشي وبرهان فرادة النصف).
 - **🛡️ [البرهان الرياضي - الفصل السادس](./Mathematical_Proof_Chapter_6.md)** / **[EN](./Mathematical_Proof_Chapters_6_to_8_EN.md)**: التنبؤ الجيومتري (الربط النهائي بين الرنين وتوزيع الأعداد الأولية).
 - **🛡️ [البرهان الرياضي - الفصل السابع](./Mathematical_Proof_Chapter_7.md)** / **[EN](./Mathematical_Proof_Chapters_6_to_8_EN.md)**: قانون الانضغاط الترددي (برهان العلاقة بين الوتر وكثافة الأصفار).
 - **🛡️ [البرهان الرياضي - الفصل الثامن](./Mathematical_Proof_Chapter_8.md)** / **[EN](./Mathematical_Proof_Chapters_6_to_8_EN.md)**: قانون الانحراف الموحد (1/8) (برهان الثابت الجيومتري للانحراف).
@@ -93,8 +93,8 @@ $$ |M_N(\rho)| \approx \frac{A_n}{3} \cdot \frac{\ln N}{t_n} \quad \text{(Equila
 ## 📚 كيفية الاقتباس (Citation)
 
 **للاستشهاد بالنظرية عموماً:**
-> Basil Yahya Abdullah & Antigravity AI (2026). *Basil Resonance Theory: The Pythagorean Vector Theorem of Zeta*.
+> Basil Yahya Abdullah & Antigravity AI (2026). *Basil Resonance Theory: The General Resonance Law (Al-Kashi)*.
 
 **للاستشهاد بالبرهان التحليلي (الفصل الخامس):**
-> Basil Yahya Abdullah & Antigravity AI (2026). *Mathematical Proof - Chapter 5: The Pythagorean Vector Theorem of Zeta*. Available in Project Archives.
+> Basil Yahya Abdullah & Antigravity AI (2026). *Mathematical Proof - Chapter 5: The General Resonance Law (Al-Kashi)*. Available in Project Archives.
 

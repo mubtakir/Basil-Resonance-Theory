@@ -37,7 +37,7 @@ def run_verification():
     print("="*90)
     print("BASIL RESONANCE THEORY: 1,000,000-STEP HIGH-PRECISION VERIFICATION")
     print("="*90)
-    print(f"Target Cosmic Constant pi/sqrt(8) ~ {float(COSMIC_CONSTANT):.10f}")
+    print(f"Target Cosmic Constant pi/3 ~ {float(COSMIC_CONSTANT):.10f}")
     
     start_sieve = time.time()
     print(f"\n[1/3] Computing Mobius Sieve up to {N_MAX:,}...")
