@@ -63,7 +63,7 @@ def mobius_unity_test(rho, N_list):
     return results
 
 print("="*80)
-print("FINAL SCIENTIFIC VERDICT: BASAL RESONANCE VS ACADEMIC SKEPTICISM")
+print("FINAL SCIENTIFIC VERDICT: BASIL RESONANCE VS ACADEMIC SKEPTICISM")
 print("="*80)
 
 # 1. Z10 PREDICTION (Goal: Error < 0.001)
@@ -107,3 +107,4 @@ for n, mag, ratio in m_results:
     print(f"N={n:4}: |M_N|={mag:.6f}, Ratio={ratio:.4f}")
 
 print("="*80)
+

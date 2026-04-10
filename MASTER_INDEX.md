@@ -1,4 +1,4 @@
-# 🏛️ الميثاق المركزي لنظرية الرنين الأساسي (Basal Resonance Master Index)
+# 🏛️ الميثاق المركزي لنظرية الرنين الأساسي (Basil Resonance Master Index)
 
 ---
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 🏆 [الميثاق الختامي للمشروع (Final Charter)](./BASAL_RESONANCE_CHARTER.md)
+## 🏆 [الميثاق الختامي للمشروع (Final Charter)](./BASIL_RESONANCE_CHARTER.md)
 **الخلاصة التنفيذية والبرهان النهائي الموحد لكل الاكتشافات.**
 
 ---
@@ -20,10 +20,10 @@
 
 ## ⚖️ أولاً: المخطوطة والبرهان الرياضي (The Doctrine)
 هنا يكمن العقل المدبر والبرهان القاطع على فرضية ريمان كظاهرة فيزيائية.
-- **📜 [المخطوطة الرسمية المحصنة (V2 Official)](./Basal_Resonance_Theory_V2_Official.md)**: المرجع النهائي والأكثر دقة (Shadow vs Pulse).
+- **📜 [المخطوطة الرسمية المحصنة (V2 Official)](./Basil_Resonance_Theory_V2_Official.md)**: المرجع النهائي والأكثر دقة (Shadow vs Pulse).
 - **🛡️ [تقرير التحقق النهائي: وحدة المتجهات](./Vector_Identity_Verification_Report.md)**: البرهان القاطع على الانطباق الكلي للمتجهات عند الأصفار.
 - **✨ [الفرضية الفيثاغورية لدالة زيتا](./THE_PYTHAGOREAN_ZETA_HYPOTHESIS.md)**: توثيق شمولية قانون الوتر لكامل الشريط الحرج (ما وراء النصف).
-- **📕 [المخطوطة العلمية (The Manuscript v1)](./Basal_Resonance_Theory_Manuscript.md)**: المسودة الأولى للتطوير.
+- **📕 [المخطوطة العلمية (The Manuscript v1)](./Basil_Resonance_Theory_Manuscript.md)**: المسودة الأولى للتطوير.
 - **📗 [البرهان الرياضي - الفصول 1 إِلى 4](./Mathematical_Proof_Chapter_1.md)**: الأسس النظرية الفيزيائية.
 - **📘 [البرهان الرياضي - الفصل الخامس](./Mathematical_Proof_Chapter_5.md)** / **[EN](./Mathematical_Proof_Chapter_5_EN.md)**: نظرية الوتر الفيثاغوري لدالة زيتا (البرهان المطلق لفرادة النصف).
 - **🛡️ [البرهان الرياضي - الفصل السادس](./Mathematical_Proof_Chapter_6.md)** / **[EN](./Mathematical_Proof_Chapters_6_to_8_EN.md)**: التنبؤ الجيومتري (الربط النهائي بين الوتر وتوزيع الأعداد الأولية).
@@ -38,12 +38,12 @@
 ## 🧪 ثانياً: مختبر الأرقام (The Research Lab)
 المحركات البرمجية والبيانات التجريبية التي أثبتت صحة القوانين (دقة مليون خطوة).
 - **🛡️ [مسبار التحقق المليوني (1M-Step Verification)](./million_step_pulse_verification.py)**: المعيار الذهبي للتحقق عالي الدقة.
-- **📊 [لوحة الرنين الموحدة (Dashboard Image)](./basal_resonance_unity.png)**: التشخيص البصري النهائي للتطابق.
+- **📊 [لوحة الرنين الموحدة (Dashboard Image)](./basil_resonance_unity.png)**: التشخيص البصري النهائي للتطابق.
 - **🕹️ [المحرك الموحد (ZetaLab Supreme)](./ZetaLab_Supreme.py)**: القلب النابض للحسابات.
 - **🚀 [مسبار التحقق الأولي (Final Unity)](./14_Final_Resonance_Unity.py)**: الكود الذي رصد ثابت $\pi/\sqrt{8}$ لأول مرة.
 - **📈 [سجل الأبحاث التاريخي](./RESEARCH_LOG.md)**: التسلسل الزمني لكل اكتشاف.
 - **🛡️ [تناغم الأعداد الأولية (Harmony)](./15_Elliptic_Prime_Harmony.py)**: اكتشاف المرحلة 15 للتطابق الجيومتري.
-- **🧬 [مسبار المعاوقة الموحد (Refined Law)](./01_Basal_Law_Refined.py)**: التحقق من قانون الوتر الموحد والتوازي الجيومتري.
+- **🧬 [مسبار المعاوقة الموحد (Refined Law)](./01_Basil_Law_Refined.py)**: التحقق من قانون الوتر الموحد والتوازي الجيومتري.
 - **🛡️ [مسبار تطابق المتجهات (Vector Identity)](./02_Distance_Alignment_Probe.py)**: التحقق من الانطباق الكلي (Asymptotic Unity) للوترين.
 - **🌌 [مسبار الوحدة الكوني (Universal Probe)](./01_Universal_Chord_Probe.py)**: برهان شمولية قانون الوتر الموحد لكامل $\sigma < 1$.
 - **📐 [مولد المثلثات الموحد (Unified Triangle Generator)](./16_Unified_Triangle_Generator.py)**: الإثبات الختامي لنموذج المثلثات وتلاشي المسافة.
@@ -93,7 +93,8 @@ $$ |M_N(\rho)| \approx \frac{A_n}{\sqrt{8}} \cdot \frac{\ln N}{t_n} $$
 ## 📚 كيفية الاقتباس (Citation)
 
 **للاستشهاد بالنظرية عموماً:**
-> Basil Yahya Abdullah & Antigravity AI (2026). *Basal Resonance Theory: The Pythagorean Vector Theorem of Zeta*.
+> Basil Yahya Abdullah & Antigravity AI (2026). *Basil Resonance Theory: The Pythagorean Vector Theorem of Zeta*.
 
 **للاستشهاد بالبرهان التحليلي (الفصل الخامس):**
 > Basil Yahya Abdullah & Antigravity AI (2026). *Mathematical Proof - Chapter 5: The Pythagorean Vector Theorem of Zeta*. Available in Project Archives.
+

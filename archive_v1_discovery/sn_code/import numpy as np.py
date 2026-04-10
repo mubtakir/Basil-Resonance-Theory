@@ -38,7 +38,7 @@ plt.plot(t_test, errors, label='Magnitude |S_N| / sqrt(N)')
 for z in t_zeros:
     plt.axvline(x=z, color='r', linestyle='--', alpha=0.5, label=f'Known Zero: {z}' if z==6.0209489 else "")
 
-plt.title('Testing "Basal Hypothesis" on Dirichlet L-function ($\chi_4$)')
+plt.title('Testing "Basil Hypothesis" on Dirichlet L-function ($\chi_4$)')
 plt.xlabel('t (Imaginary part)')
 plt.ylabel('Normalized Magnitude')
 plt.legend()

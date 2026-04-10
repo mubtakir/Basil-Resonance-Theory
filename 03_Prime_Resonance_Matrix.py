@@ -6,7 +6,7 @@ import numpy as np
 # and confirm their alignment with the Prime {2, 5, 7, 17} families.
 
 def get_depth_for_N(lab, t, N):
-    H = lab.get_basal_denominator(0.5, t)
+    H = lab.get_basil_denominator(0.5, t)
     theo_val = 1.0 / H
     
     # 1. Error at the exact zero
@@ -18,7 +18,7 @@ def get_depth_for_N(lab, t, N):
     for off in [-0.1, 0.1]:
         t_bg = t + off
         sn_bg = lab.calculate_partial_sum(complex(0.5, t_bg), N)
-        H_bg = lab.get_basal_denominator(0.5, t_bg)
+        H_bg = lab.get_basil_denominator(0.5, t_bg)
         err_bg = abs(abs(sn_bg)/np.sqrt(N) - (1.0 / H_bg))
         bg_errs.append(err_bg)
         
@@ -66,3 +66,4 @@ def run_prime_families_experiment():
 
 if __name__ == "__main__":
     run_prime_families_experiment()
+

@@ -57,9 +57,9 @@ class ZetaLab:
         # (s/12) * a_N * N^(-s-1)
         return tail
 
-    # --- THE HYPOTENUSE LAW (BASAL DENOMINATOR) ---
+    # --- THE HYPOTENUSE LAW (BASIL DENOMINATOR) ---
     @staticmethod
-    def get_basal_denominator(sigma, t):
+    def get_basil_denominator(sigma, t):
         """
         The Hypotenuse Law: H = sqrt((1-sigma)^2 + t^2)
         """
@@ -70,7 +70,7 @@ class ZetaLab:
         """
         Predicts the normalized magnitude at a non-zero: |Sn| / N^(1-sigma) approx 1/H
         """
-        H = ZetaLab.get_basal_denominator(sigma, t)
+        H = ZetaLab.get_basil_denominator(sigma, t)
         return 1.0 / H
 
     # --- THE MOEBIUS POLE LAW ---
@@ -111,3 +111,4 @@ class DirichletCharacters:
     def l_mod3(n): return [0, 1, -1][n % 3]
     @staticmethod
     def l_mod4(n): return [0, 1, 0, -1][n % 4]
+

@@ -4,7 +4,7 @@ import numpy as np
 
 # --- RESONANCE VISUALIZER ---
 # Data Source: resonance_data.json
-# Outputs: basal_resonance_unity.png
+# Outputs: basil_resonance_unity.png
 
 def generate_plots():
     with open("resonance_data.json", "r") as f:
@@ -16,7 +16,7 @@ def generate_plots():
     
     plt.style.use('dark_background') # Aesthetic choice for premium look
     fig, axes = plt.subplots(2, 3, figsize=(18, 12))
-    fig.suptitle('Basal Resonance Theory: Million-Step Unity Dashboard', fontsize=24, fontweight='bold', color='cyan', y=0.98)
+    fig.suptitle('Basil Resonance Theory: Million-Step Unity Dashboard', fontsize=24, fontweight='bold', color='cyan', y=0.98)
     
     # 1. Pulse Convergence (The Active Pulse)
     ax1 = axes[0, 0]
@@ -94,8 +94,9 @@ def generate_plots():
     ax6.grid(alpha=0.2)
 
     plt.tight_layout(rect=[0, 0.03, 1, 0.95])
-    plt.savefig("basal_resonance_unity.png", dpi=200)
-    print("✓ Visualization saved as 'basal_resonance_unity.png'")
+    plt.savefig("basil_resonance_unity.png", dpi=200)
+    print("✓ Visualization saved as 'basil_resonance_unity.png'")
 
 if __name__ == "__main__":
     generate_plots()
+

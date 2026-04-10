@@ -2,7 +2,7 @@ import mpmath as mp
 import time
 import json
 
-# --- BASAL RESONANCE: MILLION-STEP PULSE VERIFICATION ---
+# --- BASIL RESONANCE: MILLION-STEP PULSE VERIFICATION ---
 # Precision: 50 decimal places
 # Target: N = 1,000,000
 # Zeros: Z1 to Z5
@@ -35,7 +35,7 @@ def run_verification():
     N_SAMPLES = [1000, 10000, 100000, 500000, 1000000]
     
     print("="*90)
-    print("BASAL RESONANCE THEORY: 1,000,000-STEP HIGH-PRECISION VERIFICATION")
+    print("BASIL RESONANCE THEORY: 1,000,000-STEP HIGH-PRECISION VERIFICATION")
     print("="*90)
     print(f"Target Cosmic Constant pi/sqrt(8) ~ {float(COSMIC_CONSTANT):.10f}")
     
@@ -92,3 +92,4 @@ def run_verification():
 
 if __name__ == "__main__":
     run_verification()
+

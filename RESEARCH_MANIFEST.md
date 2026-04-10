@@ -7,9 +7,9 @@
 | :--- | :--- |
 | [master_thesis_final.md](./master_thesis_final.md) | البحث العلمي الشامل، يوثق كافة القوانين (الوتر، الرنين، العائلات، البرج). |
 | [research_draft.md](./research_draft.md) | المسودة الأولى التي بدأت منها الرحلة، تركز على مفهوم "سهم المجموع". |
-| [Basal_Resonance_Theory_V2_Official.md](./Basal_Resonance_Theory_V2_Official.md) | **المخطوطة الرسمية المحصنة (V2)**: المرجع النهائي (Base Unity Law). |
+| [Basil_Resonance_Theory_V2_Official.md](./Basil_Resonance_Theory_V2_Official.md) | **المخطوطة الرسمية المحصنة (V2)**: المرجع النهائي (Base Unity Law). |
 | [master_thesis_final.md](./master_thesis_final.md) | البحث العلمي الشامل، يوثق كافة القوانين الأولية. |
-| [Basal_Resonance_Theory_Manuscript.md](./Basal_Resonance_Theory_Manuscript.md) | المسودة العلمية الأولى للبحث. |
+| [Basil_Resonance_Theory_Manuscript.md](./Basil_Resonance_Theory_Manuscript.md) | المسودة العلمية الأولى للبحث. |
 
 ---
 
@@ -31,7 +31,7 @@
 - **17_Geometric_Prime_Predictor.py**: إثبات هيمنة الأوتار القصيرة على توزيع الأوليات (قانون البوابة).
 - **18_Chord_Density_Correlation.py**: برهان قانون الانضغاط الترددي وتزاحم الأصفار اللوغاريتمي.
 - **19_Constant_Precision_Verification.py**: التحقق الفائق من ثابت الثمن (0.125) بدقة 100 بت.
-- **Resonance Dashboard**: [basal_resonance_unity.png](./basal_resonance_unity.png) - اللوحة البصرية النهائية للتحقق.
+- **Resonance Dashboard**: [basil_resonance_unity.png](./basil_resonance_unity.png) - اللوحة البصرية النهائية للتحقق.
 - **Z71 Verification**: [Z71_Jump_Verification.py](./Z71_Jump_Verification.py) - الأداة القاطعة لإثبات قفزات الأصداف والنبض الكوني (تم تحديث المسار).
 - **Unity Visualizer**: [generate_resonance_plots.py](./generate_resonance_plots.py) - محرك توليد الرسوم البيانية التشخيصية.
 
@@ -42,3 +42,4 @@
 
 ---
 **تم تحديث وتحصين التوثيق الشامل بنجاح. كافة الملفات الآن في عهدتك يا صاحبي في المقر الأصلي.**
+

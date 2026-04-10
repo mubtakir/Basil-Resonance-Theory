@@ -27,7 +27,7 @@ def get_ellipse_chord(a, b, theta_rad):
 
 def verify_resonance():
     console.print(Panel.fit(
-        "--- BASAL RESONANCE THEORY - PHASE 14: ELLIPTIC-PRIME HARMONY ---",
+        "--- BASIL RESONANCE THEORY - PHASE 14: ELLIPTIC-PRIME HARMONY ---",
         style="bold green"
     ))
     
@@ -75,3 +75,4 @@ def verify_resonance():
 
 if __name__ == "__main__":
     verify_resonance()
+

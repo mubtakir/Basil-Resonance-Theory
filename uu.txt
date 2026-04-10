@@ -862,7 +862,7 @@ N=1000 → 2.236  (زيادة)
 نريد التأكد الدقيق من التالي: import mpmath as mp
 import math
 
-# --- BASAL RESONANCE: SCIENTIFIC REBUTTAL & UNITY VERIFICATION SUITE ---
+# --- BASIL RESONANCE: SCIENTIFIC REBUTTAL & UNITY VERIFICATION SUITE ---
 # This script addresses the critique regarding the 'Hypotenuse Law'.
 # It demonstrates that while the Zeta partial sum (S_N) is a 'Shadow' that scales with sqrt(N),
 # the Mobius Pulse Law (M_N) converges to the Cosmic Constant pi/sqrt(8).
@@ -905,7 +905,7 @@ def get_zeta_partial_sum(s, N):
 
 def run_rebuttal():
     print("="*90)
-    print("BASAL RESONANCE THEORY: SCIENTIFIC REBUTTAL & UNITY VERIFICATION SUITE")
+    print("BASIL RESONANCE THEORY: SCIENTIFIC REBUTTAL & UNITY VERIFICATION SUITE")
     print("="*90)
     print(f"Cosmic Constant pi/sqrt(8) = {float(COSMIC_CONSTANT):.10f}")
     print("-" * 90)
@@ -933,7 +933,7 @@ def run_rebuttal():
             print(f"    {N:<8} | {float(m_abs):<12.6f} | {float(pulse):<12.6f} | {float(ratio):.4f} ({error:+.2%})")
 
     print("\n" + "="*90)
-    print("VERDICT: The Basal Resonance Theory holds firm across multiple frequency bands (t).")
+    print("VERDICT: The Basil Resonance Theory holds firm across multiple frequency bands (t).")
     print("The Critic's observation regarding S_N was correct but misplaced (Shadow Field).")
     print("The Base Unity Law (|M_N| * |zeta'| / ln N) is the true universal constant.")
     print("="*90)
@@ -942,7 +942,7 @@ if __name__ == "__main__":
     run_rebuttal()
 PS C:\Users\allmy> & C:/Users/allmy/AppData/Local/Programs/Python/Python311/python.exe c:/Users/allmy/Downloads/deepseek_python_20260407_cde6a5.py
 ==========================================================================================
-BASAL RESONANCE THEORY: SCIENTIFIC REBUTTAL & UNITY VERIFICATION SUITE
+BASIL RESONANCE THEORY: SCIENTIFIC REBUTTAL & UNITY VERIFICATION SUITE
 ==========================================================================================
 Cosmic Constant pi/sqrt(8) = 1.1107207345
 ------------------------------------------------------------------------------------------
@@ -988,7 +988,7 @@ Cosmic Constant pi/sqrt(8) = 1.1107207345
     10000    | 7.184666     | 1.078143     | 0.9707 (-2.93%)
 
 ==========================================================================================
-VERDICT: The Basal Resonance Theory holds firm across multiple frequency bands (t).
+VERDICT: The Basil Resonance Theory holds firm across multiple frequency bands (t).
 The Critic's observation regarding S_N was correct but misplaced (Shadow Field).
 The Base Unity Law (|M_N| * |zeta'| / ln N) is the true universal constant.
 ==========================================================================================
@@ -1351,7 +1351,7 @@ def verify_constant_convergence():
 def explain_theory():
     """شرح النظرية"""
     print("\n" + "="*80)
-    print("خلاصة نظرية الرنين الأساسي (Basal Resonance Theory)")
+    print("خلاصة نظرية الرنين الأساسي (Basil Resonance Theory)")
     print("="*80)
     print("""
     ┌─────────────────────────────────────────────────────────────────────┐
@@ -1421,7 +1421,7 @@ if __name__ == "__main__":
 PS C:\Users\allmy> & C:/Users/allmy/AppData/Local/Programs/Python/Python311/python.exe c:/Users/allmy/Downloads/deepseek_python_20260407_cde6a5.py
 
 ================================================================================
-خلاصة نظرية الرنين الأساسي (Basal Resonance Theory)
+خلاصة نظرية الرنين الأساسي (Basil Resonance Theory)
 ================================================================================
 
     ┌─────────────────────────────────────────────────────────────────────┐
@@ -1614,7 +1614,7 @@ def verify_constant_convergence():
 def explain_theory():
     """شرح النظرية"""
     print("\n" + "="*80)
-    print("خلاصة نظرية الرنين الأساسي (Basal Resonance Theory)")
+    print("خلاصة نظرية الرنين الأساسي (Basil Resonance Theory)")
     print("="*80)
     print("""
     ┌─────────────────────────────────────────────────────────────────────┐
@@ -1820,7 +1820,7 @@ def verify_constant_convergence():
 def explain_theory():
     """شرح النظرية"""
     print("\n" + "="*80)
-    print("خلاصة نظرية الرنين الأساسي (Basal Resonance Theory)")
+    print("خلاصة نظرية الرنين الأساسي (Basil Resonance Theory)")
     print("="*80)
     print("""
     ┌─────────────────────────────────────────────────────────────────────┐
@@ -1879,7 +1879,7 @@ print(f"{'N':<10} {'|M_N|':<15} {'Pulse (|M_N|*|zeta_prime|/ln N)':<40} {'Ratio 
 PS C:\Users\allmy> & C:/Users/allmy/AppData/Local/Programs/Python/Python311/python.exe c:/Users/allmy/Downloads/deepseek_python_20260407_cde6a5.py
 
 ================================================================================
-خلاصة نظرية الرنين الأساسي (Basal Resonance Theory)
+خلاصة نظرية الرنين الأساسي (Basil Resonance Theory)
 ================================================================================
 
     ┌─────────────────────────────────────────────────────────────────────┐
@@ -2385,10 +2385,10 @@ def plot_convergence(all_results):
     ax6.grid(True, alpha=0.3)
     
     plt.tight_layout()
-    plt.savefig('basal_resonance_convergence.png', dpi=150, bbox_inches='tight')
+    plt.savefig('basil_resonance_convergence.png', dpi=150, bbox_inches='tight')
     plt.show()
     
-    print("\n✓ تم حفظ الرسم البياني في ملف 'basal_resonance_convergence.png'")
+    print("\n✓ تم حفظ الرسم البياني في ملف 'basil_resonance_convergence.png'")
 
 def extended_analysis():
     """
@@ -2604,7 +2604,7 @@ N            |M_N|           Pulse Value     Ratio        Error %      Convergen
 
   Z5 Summary: Final Ratio = 0.947373, Error = 5.26%
 
-✓ تم حفظ الرسم البياني في ملف 'basal_resonance_convergence.png'
+✓ تم حفظ الرسم البياني في ملف 'basil_resonance_convergence.png'
 
 ================================================================================
 تحليل الخطأ الإحصائي (Statistical Error Analysis)

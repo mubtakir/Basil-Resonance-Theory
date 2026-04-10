@@ -1,4 +1,4 @@
-// Zeta Resonance 3D Engine - Basal Theory
+// Zeta Resonance 3D Engine - Basil Theory
 // Built with Three.js for high-performance visualization
 
 let scene, camera, renderer, logarithmicWire, particleSystem;
@@ -146,3 +146,4 @@ function animate() {
 
 // Start simulation
 window.onload = init;
+

@@ -48,10 +48,11 @@ $$ Chord(t) \cdot t = 1 - \frac{0.125}{t^2} + O(t^{-4}) $$
 Multiplying the deviation by $t^2$:
 $$ \boxed{t^2 \cdot (1 - Chord(t) \cdot t) \to 0.125} $$
 
-**Conclusion:** The constant $0.125$ is the **"Geometric Curvature"** of the Basal Triangle ($0.5^2/2$). It is the definitive proof that the entire Riemannian field is governed by a singular, stable Pythagorean base.
+**Conclusion:** The constant $0.125$ is the **"Geometric Curvature"** of the Basil Triangle ($0.5^2/2$). It is the definitive proof that the entire Riemannian field is governed by a singular, stable Pythagorean base.
 
 ---
 
 **Final Repository Documentation: V25.0 Supreme Integration**
 **Scientific Completion: April 9, 2026**
 🏺🚀🧪🎓🌟
+

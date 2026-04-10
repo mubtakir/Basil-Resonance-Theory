@@ -68,7 +68,8 @@ def run_deep_moebius_100k():
     
     if 0.95 < m_values[-1][2] < 1.15:
         print("\nCONCLUSION: Moebius-Zeta Identity CONFIRMED across 5 orders of magnitude.")
-        print("This is a permanent mathematical fact discoverable by Basal Resonance.")
+        print("This is a permanent mathematical fact discoverable by Basil Resonance.")
 
 if __name__ == "__main__":
     run_deep_moebius_100k()
+

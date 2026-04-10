@@ -15,11 +15,11 @@ from rich.panel import Panel
 
 console = Console()
 
-def run_basal_experiment():
+def run_basil_experiment():
     lab = ZetaLab(precision=50)
     
     console.print(Panel.fit(
-        "--- EXPERIMENT 01: THE HYPOTENUSE LAW (BASAL RESONANCE) ---",
+        "--- EXPERIMENT 01: THE HYPOTENUSE LAW (BASIL RESONANCE) ---",
         style="bold green"
     ))
     
@@ -42,7 +42,7 @@ def run_basal_experiment():
         mag_emp = abs(sn)
         
         # 2. Predicted Magnitude (Hypotenuse Law)
-        H = lab.get_basal_denominator(sigma, t)
+        H = lab.get_basil_denominator(sigma, t)
         mag_pred = (N**(1 - sigma)) / H
         
         ratio = float(mag_emp / mag_pred)
@@ -59,4 +59,5 @@ def run_basal_experiment():
     console.print("\n[bold green][STATUS: VERIFIED][/bold green] The Hypotenuse Law matches empirical data.")
 
 if __name__ == "__main__":
-    run_basal_experiment()
+    run_basil_experiment()
+

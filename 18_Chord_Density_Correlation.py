@@ -88,9 +88,10 @@ def run_density_correlation_experiment():
     console.print("\n[bold magenta]--- ADVANCED GEOMETRIC INSIGHT ---[/bold magenta]")
     console.print("1. [bold white]The Compression Link[/bold white]: As the Chord length [yellow]C[/yellow] shrinks, the information density [cyan]N[/cyan] explodes.")
     console.print("2. [bold white]Geometric Pressure[/bold white]: The 'Shortening of the Triangle' acts as a pressure valve that forces zeta zeros into tighter clusters.")
-    console.print("3. [bold white]Identity Verified[/bold white]: The number of zeros is a geometric function of the [bold yellow]Hypotenuse[/] of the Basal Triangle.")
+    console.print("3. [bold white]Identity Verified[/bold white]: The number of zeros is a geometric function of the [bold yellow]Hypotenuse[/] of the Basil Triangle.")
     
     console.print("\n[bold blue]Final Status:[/bold blue] [bold green]The Frequency Compression Law is Confirmed.[/bold green]")
 
 if __name__ == "__main__":
     run_density_correlation_experiment()
+

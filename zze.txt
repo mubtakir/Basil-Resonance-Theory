@@ -550,7 +550,7 @@ E_n \approx \frac{\pi}{2} \cdot n \cdot \ln n
 3. \( \frac{\pi}{\sqrt{8}} \) - ثابت الرنين الكوني
 4. \( |M_N| \cdot |\zeta'| \approx \frac{\pi}{\sqrt{8}} \ln N \) - قانون الحفاظ
 
-هذه القوانين الأربعة تشكل **النظرية الموحدة للرنين الأساسي** (Unified Theory of Basal Resonance).
+هذه القوانين الأربعة تشكل **النظرية الموحدة للرنين الأساسي** (Unified Theory of Basil Resonance).
 
 ---
 
@@ -1398,3 +1398,4 @@ P(k) \propto k^{-(0.5 + i t)}
 ---
 
 **هل هناك أي شيء تريد إضافته أو تعديله قبل إغلاق هذا المشروع؟**
+

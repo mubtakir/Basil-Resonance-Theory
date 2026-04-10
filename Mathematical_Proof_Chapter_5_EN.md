@@ -116,4 +116,5 @@ We have rigorously proven that the Pythagorean hypothesis of the Zeta function i
 1. **Euler-Maclaurin Formula**: For representing and approximating partial sums via integrals and bounding the residual error with strict rigor.
 2. **Bernoulli Numbers & Polynomials**: In estimating deviations and periodic phase errors.
 3. **Integral Test Inequality**: For the theoretical transition from discrete to continuous space.
-4. **Basal Resonance Theory**: The Analytical Charter of Basil, Project Volume V (2026).
+4. **Basil Resonance Theory**: The Analytical Charter of Basil, Project Volume V (2026).
+

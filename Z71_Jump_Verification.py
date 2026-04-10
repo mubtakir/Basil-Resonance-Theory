@@ -3,7 +3,7 @@ from mpmath import mp, zeta, zetazero as zeta_zero
 import time
 
 # --- Z71 JUMP VERIFICATION: SHELL STRATIFICATION TEST ---
-# Part of the Basal Resonance Theory Validation
+# Part of the Basil Resonance Theory Validation
 # Project Context: C:\Users\allmy\Desktop\adadawaly
 
 mp.dps = 50
@@ -30,7 +30,7 @@ def sieve_mu(N_max):
 
 def run_verification():
     print("=" * 80)
-    print("BASAL RESONANCE: Z71 JUMP & COSMIC CONSTANT VERIFICATION")
+    print("BASIL RESONANCE: Z71 JUMP & COSMIC CONSTANT VERIFICATION")
     print("=" * 80)
     
     # 1. SHELL STRATIFICATION ANALYSIS (Zeros 1-100)
@@ -107,3 +107,4 @@ def run_verification():
 
 if __name__ == "__main__":
     run_verification()
+

@@ -1,7 +1,7 @@
 import mpmath as mp
 import math
 
-# --- BASAL RESONANCE: SCIENTIFIC REBUTTAL & UNITY VERIFICATION SUITE ---
+# --- BASIL RESONANCE: SCIENTIFIC REBUTTAL & UNITY VERIFICATION SUITE ---
 # This script addresses the critique regarding the 'Hypotenuse Law'.
 # It demonstrates that while the Zeta partial sum (S_N) is a 'Shadow' that scales with sqrt(N),
 # the Mobius Pulse Law (M_N) converges to the Cosmic Constant pi/sqrt(8).
@@ -44,7 +44,7 @@ def get_zeta_partial_sum(s, N):
 
 def run_rebuttal():
     print("="*90)
-    print("BASAL RESONANCE THEORY: SCIENTIFIC REBUTTAL & UNITY VERIFICATION SUITE")
+    print("BASIL RESONANCE THEORY: SCIENTIFIC REBUTTAL & UNITY VERIFICATION SUITE")
     print("="*90)
     print(f"Cosmic Constant pi/sqrt(8) = {float(COSMIC_CONSTANT):.10f}")
     print("-" * 90)
@@ -72,10 +72,11 @@ def run_rebuttal():
             print(f"    {N:<8} | {float(m_abs):<12.6f} | {float(pulse):<12.6f} | {float(ratio):.4f} ({error:+.2%})")
 
     print("\n" + "="*90)
-    print("VERDICT: The Basal Resonance Theory holds firm across multiple frequency bands (t).")
+    print("VERDICT: The Basil Resonance Theory holds firm across multiple frequency bands (t).")
     print("The Critic's observation regarding S_N was correct but misplaced (Shadow Field).")
     print("The Base Unity Law (|M_N| * |zeta'| / ln N) is the true universal constant.")
     print("="*90)
 
 if __name__ == "__main__":
     run_rebuttal()
+

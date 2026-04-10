@@ -33,7 +33,7 @@ def simulate_elliptic_cone():
     
     ax.scatter([0], [0], [h_expected], color='red', s=100, label="Apex (Zeta Zero)")
     
-    ax.set_title(f"Step 17: The Basal Cone (h = πr)")
+    ax.set_title(f"Step 17: The Basil Cone (h = πr)")
     ax.set_zlabel("Height (h)")
     ax.legend()
     
@@ -42,3 +42,4 @@ def simulate_elliptic_cone():
 
 if __name__ == "__main__":
     simulate_elliptic_cone()
+

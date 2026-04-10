@@ -29,7 +29,7 @@ CHAPTERS = [
         "color": "cyan",
         "experiments": [
             {"id": "01", "name": "The Hypotenuse Law",
-             "file": "01_Basal_Law_Discovery.py",
+             "file": "01_Basil_Law_Discovery.py",
              "desc": "إثبات قانون الوتر الأساسي ورصد التوافق الأول"},
             {"id": "02", "name": "The Zeta Balance",
              "file": "02_The_Zeta_Balance.py",
@@ -38,7 +38,7 @@ CHAPTERS = [
              "file": "03_Phase_Alignment_Law.py",
              "desc": "قانون الطور والارتباط العجيب بمصفوفة الأعداد الأولية"},
             {"id": "04", "name": "Refined Integral Shadow",
-             "file": "01_Basal_Law_Refined.py",
+             "file": "01_Basil_Law_Refined.py",
              "desc": "دقة التنبؤ وفناء الفجوة في مناطق التقارب"},
             {"id": "05", "name": "Vector Identity Probe",
              "file": "02_Distance_Alignment_Probe.py",
@@ -126,7 +126,7 @@ ALL_EXPERIMENTS = [exp for chapter in CHAPTERS for exp in chapter["experiments"]
 
 # ─────────────────────────────────────────────────────────────────────────────
 def display_welcome():
-    title    = Text(" BASAL RESONANCE LABORATORY ", style="bold white on dark_blue", justify="center")
+    title    = Text(" BASIL RESONANCE LABORATORY ", style="bold white on dark_blue", justify="center")
     version  = Text("V3.0 Supreme — 10 April 2026", style="italic cyan", justify="center")
     authors  = Text("Basel Yahya Abdullah  &  Antigravity AI", style="dim white", justify="center")
     console.print(Panel(
@@ -224,3 +224,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

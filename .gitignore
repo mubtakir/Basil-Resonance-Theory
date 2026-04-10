@@ -155,7 +155,7 @@ tmp/
 .gemini/
 resonance_data.json
 *.png
-!basal_resonance_unity.png
+!basil_resonance_unity.png
 *.txt
 !access_test.txt
 !qw.txt
