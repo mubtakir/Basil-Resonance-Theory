@@ -3,7 +3,7 @@
 ---
 
 ## 🚀 [مختبر الاكتشاف التفاعلي (Interactive Laboratory)](./00_Discovery_Dashboard.py)
-- [BASIL_RESONANCE_RESEARCH_NOTE.md](./BASIL_RESONANCE_RESEARCH_NOTE.md) - المذكرة البحثية المركزية (Master Edition)
+- [BASIL_RESONANCE_RESEARCH_NOTE.md](./BASIL_RESONANCE_RESEARCH_NOTE.md) - المذكرة البحثية المركزية (Historical Master Edition)
 **المدخل الرئيسي لجميع التجارب. قم بتشغيل هذا الكود لتعيش رحلة الاكتشاف بضغطة زر.**
 > `python 00_Discovery_Dashboard.py`
 
@@ -34,6 +34,8 @@
 - **⚗️ [البرهان الرياضي - الفصل التاسع](./Mathematical_Proof_Chapter_9.md)**: قانون الانحناء الجيومتري الكوني (سلسلة تايلور الكاملة وبرهانها على فرضية ريمان).
 - **🌌 [البرهان الرياضي - الفصل العاشر](./Mathematical_Proof_Chapter_10.md)**: الجسر الكوني — 3/128 وكثافة الأصفار.
 - **🏆 [البرهان الرياضي - الفصل الحادي عشر](./Mathematical_Proof_Chapter_11_Final_Theorem.md)**: المبرهنة النهائية الدامغة لفرادة الخط الحرج (The Ultimate Singularity Law).
+- **🧠 [البرهان الرياضي - الفصل الثاني عشر](./Mathematical_Proof_Chapter_12_IGM_Calculus.md)**: حساب التفاضل والتكامل النابض والمدخل الرياضي الخالص لـ IGM.
+- **🌌 [البرهان الرياضي - الفصل الثالث عشر](./Mathematical_Proof_Chapter_13_The_Absorption_Singularity.md)**: تفرُّد الامتصاص واشتقاق الخط الحرج من مبادئ التناظر المرآوي.
 
 
 ---
@@ -55,6 +57,8 @@
 - **🛡️ [مسبار تدقيق الثابت (Constant Verification)](./19_Constant_Precision_Verification.py)**: برهان استقرار الثابت 0.125 (1/8) بدقة عالية.
 - **🔬 [مسبار تدقيق تايلور النانوي (Taylor Residue Audit)](./20_Taylor_Residue_Audit.py)**: التحقق من السلسلة الكاملة c₁=-1/8, c₂=3/128, c₃=-5/1024 بدقة 100 خانة.
 - **🌉 [مسبار الجسر الكوني (Curvature-Density Bridge)](./21_Curvature_Density_Bridge.py)**: ربط ثابت 3/128 بكثافة أصفار زيتا العالمية (التجربة الختامية).
+- **🧠 [مسبار امتصاص IGM (Absorption Verification)](./22_IGM_Absorption_Verification.py)**: البرهان الرياضي الخالص على تقارب الفجوة بناءً على كثافة النقاط.
+- **✨ [مسبار تفرُّد الامتصاص (Symmetry Singularity)](./23_IGM_Symmetry_Derivation.py)**: إثبات توازن التدفق والصدى المثالي عند الخط الحرج σ=0.5.
 
 ---
 
