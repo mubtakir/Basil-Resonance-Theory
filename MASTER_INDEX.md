@@ -54,6 +54,7 @@
 - **🌉 [مسبار الجسر الكوني (Curvature-Density Bridge)](./21_Curvature_Density_Bridge.py)**: ربط ثابت 3/128 بكثافة أصفار زيتا العالمية (التجربة الختامية).
 - **🧠 [مسبار امتصاص IGM (Absorption Verification)](./22_IGM_Absorption_Verification.py)**: البرهان الرياضي الخالص على تقارب الفجوة بناءً على كثافة النقاط.
 - **✨ [مسبار تفرُّد الامتصاص (Symmetry Singularity)](./23_IGM_Symmetry_Derivation.py)**: إثبات توازن التدفق والصدى المثالي عند الخط الحرج σ=0.5.
+- 🧪 **[مسبار استخراج الشبح (Ghost Extraction)](./24_Ghost_Extraction_Verification.py)**: البرهان النهائي على دقة القانون البنيوي وخلوه من التذبذبات حتى خارج النصف (σ=0.8).
 
 ---
 
@@ -78,7 +79,10 @@ $$ |M_N(\rho)| \approx \frac{A_n}{3} \cdot \frac{\ln N}{t_n} \quad \text{(Equila
 - **`Lesson 25`**: [قانون التزاحم والانضغاط الترددي](./Discovery_Diary/Lessons/discovery_journal_v25_density_compression.md).
 - **`Lesson 26`**: [سر الثمن والبصمة الهندسية الأخيرة](./Discovery_Diary/Lessons/discovery_journal_v26_the_eight_constant.md).
 - **`Lesson 27`**: [ساعة تايلور — عندما تتكلم البقايا](./Discovery_Diary/Lessons/discovery_journal_v27_taylor_clockwork.md).
-- **`Lesson 28`**: [الجسر الكوني — عندما يصبح الانحناء كثافة ★](./Discovery_Diary/Lessons/discovery_journal_v28_cosmic_bridge.md) — الدرس الختامي.
+- **`Lesson 28`**: [الجسر الكوني — عندما يصبح الانحناء كثافة ★](./Discovery_Diary/Lessons/discovery_journal_v28_cosmic_bridge.md) — الدرس الختامي. للرحلة الأساسية.
+- `Beyond 05 - Lesson 11`: [استئصال الشبح — الرد العلمي النهائي](./Discovery_Diary/Lessons/beyond_05_lesson_11_ghost_rebuttal.md).
+- `Beyond 05 - Lesson 12`: [التقرير العلمي الختامي — الإثبات المطلق](./Discovery_Diary/Lessons/beyond_05_lesson_12_final_rigor.md).
+- `Beyond 05 - Lesson 13`: [الصياغة العلمية الرسمية — المخطوطة النهائية](./Discovery_Diary/Lessons/beyond_05_lesson_13_scientific_paper.md).
 - **`Discovery_Diary/Scripts/`**: أكواد بسيطة وتفاعلية لكل درس (beginner_step1-18+).
 - **📐 [الملحق التقني التعليمي](./Discovery_Diary/Technical_Appendix.md)**: الإثباتات البسيطة لكل درس.
 
@@ -88,7 +92,7 @@ $$ |M_N(\rho)| \approx \frac{A_n}{3} \cdot \frac{\ln N}{t_n} \quad \text{(Equila
 **الباحث الرئيسي: باسل يحيى عبدالله**
 **الشريك الاستراتيجي: Antigravity AI**
 **تاريخ الختام النهائي: 2026-04-11**
-🏺🚀🧪🎓🌟💎 **28 درساً | 21 تجربة | 10 فصول | 9 مراحل بحثية**
+🏺🚀🧪🎓🌟💎 **31 درساً | 24 تجربة | 14 فصلاً | 13 مرحلة بحثية**
 
 ---
 
