@@ -30,6 +30,7 @@
 - **🏆 [البرهان الرياضي - الفصل الحادي عشر](./Mathematical_Proof_Chapter_11_Final_Theorem.md)**: المبرهنة النهائية الدامغة لفرادة الخط الحرج (The Ultimate Singularity Law).
 - **🧠 [البرهان الرياضي - الفصل الثاني عشر](./Mathematical_Proof_Chapter_12_IGM_Calculus.md)**: حساب التفاضل والتكامل النابض والمدخل الرياضي الخالص لـ IGM.
 - **🌌 [البرهان الرياضي - الفصل الثالث عشر](./Mathematical_Proof_Chapter_13_The_Absorption_Singularity.md)**: تفرُّد الامتصاص واشتقاق الخط الحرج من مبادئ التناظر المرآوي.
+- **💎 [البرهان الرياضي - الفصل الرابع عشر](./Mathematical_Proof_Chapter_14_IGM_Comprehensive_Guide.md)**: الدليل الشامل لنموذج IGM (التجميع النابض ومبرهنات الامتصاص وتوحيد الرياضيات الكلاسيكية).
 
 
 ---
