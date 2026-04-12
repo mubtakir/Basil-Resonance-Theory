@@ -16,6 +16,7 @@
 
 ## 📑 أولاً: المباحث والبراهين المنشورة (The Published Research)
 هنا يكمن العقل المدبر والبرهان القاطع على فرضية ريمان كظاهرة فيزيائية.
+- 🎓 **[الملخص التنفيذي الأكاديمي (Executive Summary)](./Basil_Resonance_Executive_Summary.md)**: الخلاصة العلمية الصارمة للنظرية بصياغة أكاديمية.
 - [Basil_Resonance_Theory_V2_Official.md](./Basil_Resonance_Theory_V2_Official.md) (Historical Reference)
 - **🛡️ [تقرير التحقق النهائي: وحدة المتجهات](./Vector_Identity_Verification_Report.md)**: البرهان القاطع على الانطباق الكلي للمتجهات عند الأصفار.
 - **✨ [رنين الكاشي لدالة زيتا](./THE_AL_KASHI_ZETA_RESONANCE.md)**: توثيق شمولية قانون الرنين لكامل الشريط الحرج (ما وراء النصف).
