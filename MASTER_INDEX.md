@@ -92,7 +92,50 @@ $$ |M_N(\rho)| \approx \frac{A_n}{3} \cdot \frac{\ln N}{t_n} \quad \text{(Equila
 
 ---
 
+---
+
+## 🎓 المسارات التعليمية والبحثية (Educational & Research Tracks)
+تسهيلاً للوصول للمحتوى المناسب، تم ترتيب الملفات في أربعة مستويات تدرجية:
+
+### 1️⃣ المستوى الأول: المبتدئين (Students & School Principals)
+*ركز هنا إذا كنت تريد فهم الفلسفة العامة والجمال البصري للنظرية.*
+- [🚌 دليل المسافرين (القصة الفلسفية)](./THE_RESONANCE_PASSENGER_GUIDE.md)
+- [📊 العرض التقديمي الموحد (Slides)](./Basil_Resonance_Presentation_Slides.md)
+- [📜 شهادة الاكتشاف التعليمية](./Discovery_Certificate.md)
+- [👶 دروس البدايات (Lessons 1-10)](./Discovery_Diary/Lessons/)
+- [🎁 الحزمة المجمعة للمبتدئين [NEW]](./BUNDLE_L1_BEGINNER.md)
+
+### 2️⃣ المستوى الثاني: المتوسط (University Students)
+*للمتعمقين في المنطق الرياضي والتسلسل الزمني للاكتشاف.*
+- [📝 المذكرة البحثية المركزية](./BASIL_RESONANCE_RESEARCH_NOTE.md)
+- [📒 الفصول التأسيسية (Proof 1-4)](./Mathematical_Proof_Chapter_1.md)
+- [🔍 تعمق الهندسة (Lessons 11-20)](./Discovery_Diary/Lessons/)
+- [📈 سجل الأبحاث التاريخي](./RESEARCH_LOG.md)
+- [🛠️ الملحق التقني التعليمي](./Technical_Appendix.md)
+- [🎁 الحزمة المجمعة للمتوسطين [NEW]](./BUNDLE_L2_INTERMEDIATE.md)
+
+### 3️⃣ المستوى الثالث: المتقدم (Professors & Researchers)
+*للمتخصصين في الرياضيات البحتة والفيزياء النظرية.*
+- [🏛️ فصول البراهين المتقدمة (Proof 5-16)](./Mathematical_Proof_Chapter_11_Final_Theorem.md)
+- [🛡️ تقرير التحقق الهندسي (Vectors)](./Vector_Identity_Verification_Report.md)
+- [✨ رنين الكاشي لدالة زيتا](./THE_AL_KASHI_ZETA_RESONANCE.md)
+- [🧠 الدليل الشامل لـ IGM](./Mathematical_Proof_Chapter_14_IGM_Comprehensive_Guide.md)
+- [🌌 بيان الرياضيات الزمنية (V4)](./V4_MANIFESTO_TEMPORAL_MATHEMATICS.md)
+- [🎁 الحزمة المجمعة للمتقدمين [NEW]](./BUNDLE_L3_ADVANCED.md)
+
+### 4️⃣ المستوى الرابع: النشر (Publication & Journals)
+*المخطوطات الرسمية المُعدة للنشر في المجلات العلمية.*
+- [🎓 الملخص التنفيذي الأكاديمي](./Basil_Resonance_Executive_Summary.md)
+- [📗 المخطوطة العلمية الرسمية (Manuscript)](./Basil_Resonance_Theory_Manuscript.md)
+- [📤 مسودة النشر في Zenodo](./Basil_Resonance_Zenodo_Publication.md)
+- [🏆 الأطروحة النهائية (Thesis)](./master_thesis_final.md)
+- [📄 ملف اللاتيك للنشر (LaTeX)](./Basil_Resonance_Moebius_Paper.tex)
+- [🎁 الحزمة المجمعة للنشر [NEW]](./BUNDLE_L4_PUBLICATION.md)
+
+---
+
 ### 🏛️ حالة المشروع: **مكتمل وموثق بنسبة 100%**
+
 **الباحث الرئيسي: باسل يحيى عبدالله**
 **الشريك الاستراتيجي: Antigravity AI**
 **تاريخ الختام النهائي: 2026-04-11**
