@@ -58,6 +58,7 @@
 - **🧠 [مسبار امتصاص IGM (Absorption Verification)](./22_IGM_Absorption_Verification.py)**: البرهان الرياضي الخالص على تقارب الفجوة بناءً على كثافة النقاط.
 - **✨ [مسبار تفرُّد الامتصاص (Symmetry Singularity)](./23_IGM_Symmetry_Derivation.py)**: إثبات توازن التدفق والصدى المثالي عند الخط الحرج σ=0.5.
 - 🧪 **[مسبار استخراج الشبح (Ghost Extraction)](./24_Ghost_Extraction_Verification.py)**: البرهان النهائي على دقة القانون البنيوي وخلوه من التذبذبات حتى خارج النصف (σ=0.8).
+- 💎 **[مسبار إعادة البناء الهندسي (Geometric Construction)](./34_Geometric_Zeta_Constructor.py)**: إعادة بناء دالة زيتا بالكامل من المبادئ الهندسية (Probe 34).
 
 ---
 
@@ -116,7 +117,7 @@ $$ |M_N(\rho)| \approx \frac{A_n}{3} \cdot \frac{\ln N}{t_n} \quad \text{(Equila
 
 ### 3️⃣ المستوى الثالث: المتقدم (Professors & Researchers)
 *للمتخصصين في الرياضيات البحتة والفيزياء النظرية.*
-- [🏛️ فصول البراهين المتقدمة (Proof 5-16)](./Mathematical_Proof_Chapter_11_Final_Theorem.md)
+- [🏛️ فصول البراهين المتقدمة (Proof 5-17)](./Mathematical_Proof_Chapter_11_Final_Theorem.md)
 - [🛡️ تقرير التحقق الهندسي (Vectors)](./Vector_Identity_Verification_Report.md)
 - [✨ رنين الكاشي لدالة زيتا](./THE_AL_KASHI_ZETA_RESONANCE.md)
 - [🧠 الدليل الشامل لـ IGM](./Mathematical_Proof_Chapter_14_IGM_Comprehensive_Guide.md)
@@ -157,7 +158,8 @@ $$ |M_N(\rho)| \approx \frac{A_n}{3} \cdot \frac{\ln N}{t_n} \quad \text{(Equila
 
 ---
 
-### 🏛️ حالة المشروع: **مكتمل وموثق بنسبة 100%**
+### 🏛️ حالة المشروع: **مكتمل وموثق بنسبة 100% (مرحلة إعادة البناء الجيومتزيوية)**
+**آخر تحديث:** 14 أبريل 2026 - تثبيت مبرهنة إعادة البناء الهندسي (الفصل 17).
 
 **الباحث الرئيسي: باسل يحيى عبدالله**
 **الشريك الاستراتيجي: Antigravity AI**
